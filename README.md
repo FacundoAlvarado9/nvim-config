@@ -1,3 +1,7 @@
 ## nvim-config
 
-Backup of my nvim config. If you like it, feel free to use it.
+Backup of my nvim config. This is how it currently looks:
+
+![looks](https://github.com/FacundoAlvarado9/nvim-config/blob/master/looks.jpg?raw=true)
+
+
