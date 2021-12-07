@@ -2,6 +2,6 @@
 
 Backup of my nvim config. This is how it currently looks:
 
-![looks](looks.jpg?raw=true)
+![looks](https://github.com/FacundoAlvarado9/nvim-config/blob/master/looks.png?raw=true)
 
 
