@@ -1,0 +1,12 @@
+[submodule "autoload/plugged/auto-pairs"]
+	path = autoload/plugged/auto-pairs
+	url = git@github.com:jiangmiao/auto-pairs.git
+[submodule "autoload/plugged/lightline"]
+	path = autoload/plugged/lightline
+	url = git@github.com:itchyny/lightline.vim.git
+[submodule "autoload/plugged/tender"]
+	path = autoload/plugged/tender
+	url = git@github.com:jacoborus/tender.vim.git
+[submodule "autoload/plugged/vim-polyglot"]
+	path = autoload/plugged/vim-polyglot
+	url = git@github.com:sheerun/vim-polyglot.git
