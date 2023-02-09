@@ -14,7 +14,7 @@ If you like it, feel free to use any part of it. All plugins credit goes to the 
 ## Tutorial
 This is a tutorial mostly for myself. Please keep in mind that <b>I am not proficient at all in nvim config</b>. Any comment is more than welcome.
 
-1. Clone the contents of the repo into your config folder. In my own case, at the `home/.config/ directory` :
+1. Clone the contents of the repo into your config folder. In my own case, at the `home/.config/` directory :
 ```
 git clone https://github.com/FacundoAlvarado9/nvim-config.git nvim
 ```
